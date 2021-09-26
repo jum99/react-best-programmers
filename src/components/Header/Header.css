@@ -7,6 +7,7 @@
     background-color: #032d60;
     text-align: center;
     position: fixed;
+    
     top:0;
     left:0;
     right:0;
@@ -16,6 +17,6 @@
 .header-human-club{
     background-color: #032d60;
     color:#fff;
-    padding: 10px;
+    padding: 30px;
     margin-bottom: 10px;
 }

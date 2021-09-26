@@ -9,7 +9,7 @@ const ProgrammerSummary = (props) => {
         <div className="programmer-summary">
             <div className="container">
                 <div className="row row-cols-1 p-2">
-                    <div className="card h-100">
+                    <div className="card">
                         <div className="programmer-img p-2">
                             <img className="img" src={img} alt="..." />
                         </div>

@@ -6,7 +6,7 @@ a{
     text-decoration: none;
 }
 .header-container{
-    background-color:#3578E5;
+    background-color: #032d60;
     text-align: center;
     position: fixed;
     top:0;
@@ -33,7 +33,8 @@ a{
     border-bottom: 1px solid #fff;
 }
 .header-human-club{
-    background-color:#2e5fad;
+    background-color: #032d60;
     color:#fff;
-    padding: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
 }

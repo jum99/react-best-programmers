@@ -1,0 +1,22 @@
+.programmer-img{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.programmer-img img{
+    width: 150px;
+    height: 135px; 
+    border-radius: 50%;
+}
+.programmer-btn{
+   width: 100%;
+   padding: 5px 0px;
+   border: none;
+   background-color: #3578E5;
+   color: #fff;
+   border-radius:3px;
+}
+.programmer-btn:hover{
+   background-color: #2e5fad;
+}
+
